@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there, fellow nerds 🤓
+Welcome to this organization! Here is where I archive the coding projects I have worked on during my universities studies at [TU/e](https://www.tue.nl/). It includes assignments, personal experiments, and group projects across various courses.
+> [!WARNING]
+> Academic fraud is a big deal, so if you intend on using any of the content of these repositories, please reference me appropriately. Not doing so is considered plagiarism, and it can have serious consequences on your academic career. Don't be stupid!
+
+### Structure
 
 <!--
 
